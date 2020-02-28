@@ -19,7 +19,7 @@ export default class About extends Component {
               size="square" image={professionalPhoto}/>
           </div>
           <div className="profile_text">
-            <Text class="heading" text="About Me"/>
+            <Text class="heading" text="Nathanael Mathieu"/>
             {aboutMeText}
           </div>
           <div className="project_picture">
