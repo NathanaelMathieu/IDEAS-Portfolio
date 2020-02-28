@@ -28,15 +28,15 @@ function IconButtons() {
   return <div className="IconButtons">
       {styleIcon(
         GoMarkGithub,
-        "https://github.com/"
+        "https://github.com/NathanaelMathieu/"
       )}
       {styleIcon(
         IoMdMail,
-        "mailto:placeholder@wesleyan.edu"
+        "mailto:nmathieu@wesleyan.edu"
       )}
       {styleIcon(
         FaLinkedin,
-        "https://www.linkedin.com/"
+        "https://www.linkedin.com/in/nathanaelmathieu/"
       )}
     </div>;
 }
