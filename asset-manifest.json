@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/IDEAS-Portfolio-Template/static/css/main.0c11731a.chunk.css",
+    "main.js": "/IDEAS-Portfolio-Template/static/js/main.e403153e.chunk.js",
+    "main.js.map": "/IDEAS-Portfolio-Template/static/js/main.e403153e.chunk.js.map",
+    "runtime-main.js": "/IDEAS-Portfolio-Template/static/js/runtime-main.e7da47d0.js",
+    "runtime-main.js.map": "/IDEAS-Portfolio-Template/static/js/runtime-main.e7da47d0.js.map",
+    "static/js/2.e53047c2.chunk.js": "/IDEAS-Portfolio-Template/static/js/2.e53047c2.chunk.js",
+    "static/js/2.e53047c2.chunk.js.map": "/IDEAS-Portfolio-Template/static/js/2.e53047c2.chunk.js.map",
+    "index.html": "/IDEAS-Portfolio-Template/index.html",
+    "precache-manifest.e1e163e23a056b6b65d1fb4ce59334da.js": "/IDEAS-Portfolio-Template/precache-manifest.e1e163e23a056b6b65d1fb4ce59334da.js",
+    "service-worker.js": "/IDEAS-Portfolio-Template/service-worker.js",
+    "static/css/main.0c11731a.chunk.css.map": "/IDEAS-Portfolio-Template/static/css/main.0c11731a.chunk.css.map",
+    "static/js/2.e53047c2.chunk.js.LICENSE": "/IDEAS-Portfolio-Template/static/js/2.e53047c2.chunk.js.LICENSE",
+    "static/media/ImageNotFound_4x6.png": "/IDEAS-Portfolio-Template/static/media/ImageNotFound_4x6.67087615.png",
+    "static/media/ImageNotFound_square.png": "/IDEAS-Portfolio-Template/static/media/ImageNotFound_square.487748ab.png",
+    "static/media/ProfessionalPhoto.JPG": "/IDEAS-Portfolio-Template/static/media/ProfessionalPhoto.f25f6aa7.JPG",
+    "static/media/brick.jpg": "/IDEAS-Portfolio-Template/static/media/brick.4d842d7f.jpg",
+    "static/media/hall.jpg": "/IDEAS-Portfolio-Template/static/media/hall.5529c19c.jpg",
+    "static/media/iso1.jpg": "/IDEAS-Portfolio-Template/static/media/iso1.8096f5b6.jpg",
+    "static/media/iso2.jpg": "/IDEAS-Portfolio-Template/static/media/iso2.dd2c4b1f.jpg",
+    "static/media/iso3.jpg": "/IDEAS-Portfolio-Template/static/media/iso3.df609517.jpg",
+    "static/media/iso4.jpg": "/IDEAS-Portfolio-Template/static/media/iso4.c4983d93.jpg",
+    "static/media/lights.jpg": "/IDEAS-Portfolio-Template/static/media/lights.b7063774.jpg",
+    "static/media/side1.jpg": "/IDEAS-Portfolio-Template/static/media/side1.4af0f452.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7da47d0.js",
+    "static/js/2.e53047c2.chunk.js",
+    "static/css/main.0c11731a.chunk.css",
+    "static/js/main.e403153e.chunk.js"
+  ]
+}
