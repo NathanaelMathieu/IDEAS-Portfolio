@@ -12,7 +12,7 @@ import cubeSide from "../resources/projects/cube/side1.jpg";
 
 export default class Projects extends Component {
   componentDidMount() {
-    document.title = "Projects | IDEAS Student";
+    document.title = "Projects | Nathanael Mathieu";
   }
 
   render() {
