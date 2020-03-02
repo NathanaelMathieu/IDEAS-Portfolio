@@ -3,7 +3,7 @@ import { Text } from "../../components";
 
 const contactText = <Text text=
 {
-`Scuppers gaff Yellow Jack bucko interloper hogshead Sink me trysail hands shrouds. Gibbet lateen sail belay measured fer yer chains spirits salmagundi Yellow Jack heave to Jolly Roger crimp. Belaying pin Sail ho yawl yard weigh anchor pillage black jack dance the hempen jig Davy Jones Locker run a shot across the bow. Lad strike colors bilge rat red ensign Pieces of Eight chandler chase trysail capstan boom. Poop deck handsomely schooner grog Pirate Round Blimey gangway reef aye scallywag.`
+`Nathanael Mathieu is based out of his hometown Freedom, New Hampshire and is looking for a Full-Stack Developer or Software Engineering role. If you have questions about any of his projects or think he would make a valuable part of your team, feel free to contact him below. `
 }
 />;
 
