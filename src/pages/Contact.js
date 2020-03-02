@@ -7,7 +7,7 @@ import professionalPhoto from "../resources/ProfessionalPhoto.JPG";
 
 export default class Contact extends Component {
   componentDidMount() {
-    document.title = "Contact | IDEAS Student";
+    document.title = "Contact | Nathanael Mathieu";
   }
 
   render() {
