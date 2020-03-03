@@ -9,7 +9,7 @@ export default class Header extends Component {
         <ul>
           <li>
             <a
-              href="https://www.wesleyan.edu/"
+              href="https://www.wesleyan.edu/ideas/"
               target="_blank"
               rel="noopener noreferrer"
             >
