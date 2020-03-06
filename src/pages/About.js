@@ -2,7 +2,7 @@ import "./About.scss";
 import { ImageCard, Layout, Text } from "../components/";
 import React, { Component } from "react";
 import { aboutMeText, aboutProjectText } from "./Text/aboutText.js";
-import cubeIso2 from "../resources/projects/cube/iso2.jpg";
+import { iso2 } from "../resources/projects/cube/";
 import professionalPhoto from "../resources/ProfessionalPhoto.JPG";
 
 export default class About extends Component {
@@ -25,7 +25,7 @@ export default class About extends Component {
           <div className="project_picture">
             <ImageCard alt="Click to visit my Cube Project"
               clickable route="projects/cube" textEnabled
-              image={cubeIso2} />
+              image={iso2} text="Cube | 2019"/>
           </div>
           <div className="project_text">
             {aboutProjectText}
