@@ -1,11 +1,8 @@
 import "./Pacman.scss";
 import { ImageCard, Layout } from "../../components";
 import React, { Component } from "react";
-
-/*
- * Import { }
- *  from "../../resources/projects/pacman";
- */
+import { particleFiltering, reinforcement, search, tracking }
+ from "../../resources/projects/pacman";
 import { t1, t2, t3, t4, t5, t6 } from "./Text/pacmanText.js";
 
 export default class Cube extends Component {
@@ -19,7 +16,7 @@ export default class Cube extends Component {
         <div className="Pacman">
           <div className="image_text">
             <ImageCard alt="An isometric view of the Cube"
-              size="4x6"
+              size="" image={search}
               textEnabled text="An isometric view of the Cube"/>
             {t1}
           </div>
