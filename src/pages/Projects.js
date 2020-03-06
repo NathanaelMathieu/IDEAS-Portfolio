@@ -11,22 +11,31 @@ export default class Projects extends Component {
   render() {
     return (
       <Layout>
-        <div className="ProjectContainer">
+        <div className="Projects">
+          <ImageCard route="projects/template"
+           textEnabled clickable alt="Click to visit my Cube project page"
+           text="IDEAS Portfolio Template | Spring 2020"/>
+          <ImageCard route="projects/basinski"
+           textEnabled clickable alt="Click to visit my Cube project page"
+           text="Basinski | Fall 2019"/>
           <ImageCard image={cubeIso1} route="projects/cube"
            textEnabled clickable alt="Click to visit my Cube project page"
            text="Cube | Fall 2019"/>
-          <ImageCard image={cubeIso1} route="projects/cube"
+          <ImageCard route="projects/pacman"
            textEnabled clickable alt="Click to visit my Cube project page"
-           text="Cube  |  Fall 2019"/>
-          <ImageCard image={cubeIso1} route="projects/cube"
+           text="Pacman Project | Fall 2019"/>
+           <ImageCard route="projects/tempest"
            textEnabled clickable alt="Click to visit my Cube project page"
-           text="Cube  |  Fall 2019"/>
-          <ImageCard image={cubeIso1} route="projects/cube"
+           text="Tempest | Spring 2019"/>
+          <ImageCard route="projects/hopper"
            textEnabled clickable alt="Click to visit my Cube project page"
-           text="Cube  |  Fall 2019"/>
-          <ImageCard image={cubeIso1} route="projects/cube"
+           text="Hopper | Fall 2018"/>
+          <ImageCard route="projects/marble"
+            textEnabled clickable alt="Click to visit my Cube project page"
+            text="Marble Run | Fall 2018"/>
+          <ImageCard route="projects/tag"
            textEnabled clickable alt="Click to visit my Cube project page"
-           text="Cube  |  Fall 2019"/>
+           text="Robot Tag | Spring 2018"/>
         </div>
       </Layout>
     );
