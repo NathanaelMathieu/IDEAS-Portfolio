@@ -24,9 +24,9 @@ export default class Projects extends Component {
           <ImageCard route="projects/pacman"
            textEnabled clickable alt="Click to visit my Cube project page"
            text="Pacman Project | Fall 2019"/>
-           <ImageCard route="projects/tempest"
+           <ImageCard route="projects/tempist"
            textEnabled clickable alt="Click to visit my Cube project page"
-           text="Tempest | Spring 2019"/>
+           text="Tempist | Spring 2019"/>
           <ImageCard route="projects/hopper"
            textEnabled clickable alt="Click to visit my Cube project page"
            text="Hopper | Fall 2018"/>
