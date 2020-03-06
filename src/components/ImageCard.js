@@ -32,21 +32,25 @@ export default class ImageCard extends Component {
 
     if (this.props.clickable) {
       return (
-        <Link className="ImageCard Clickable"
+        <div className="wrapper">
+          <Link className="ImageCard Clickable"
          onClick={this.handleOnClick} to={route}>
-          <img className="image" src={image}
-           alt={alt}></img>
-          {this.getText()}
-        </Link>
+            <img className="image" src={image}
+            alt={alt}></img>
+            {this.getText()}
+          </Link>
+        </div>
       );
     }
 
     return (
-      <div className="ImageCard"
-       onClick={this.handleOnClick} to={route}>
-        <img className="image" src={image}
-         alt={alt}></img>
-        {this.getText()}
+      <div className="wrapper">
+        <div className="ImageCard"
+        onClick={this.handleOnClick} to={route}>
+          <img className="image" src={image}
+          alt={alt}></img>
+          {this.getText()}
+        </div>
       </div>
     );
   }

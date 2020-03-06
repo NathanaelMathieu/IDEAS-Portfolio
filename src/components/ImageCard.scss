@@ -1,37 +1,39 @@
 @import "src/style.scss";
 
-.ImageCard {
-  padding: 3%;
-  display: flex;
-  align-items: center;
-  background: $blue-grey;
-  border-radius: 12px;
-  transition: box-shadow 0.5s, transform 0.5s ease-in-out;
-  position: relative;
-  .image {
-    max-height: 100%;
-    max-width: 100%;
-    object-fit: contain;
-  }
-  .text {
+.wrapper {
+  .ImageCard {
+    padding: 3%;
     display: flex;
-    align-items: flex-end;
-    justify-content: flex-end;
-    width: calc(100% - 6% - 20px);
-    height: calc(100% - 9% - 20px);
-    position: absolute;
-    background: $blue-pale-transparent;
-    padding: 10px;
+    align-items: center;
+    background: $blue-grey;
+    border-radius: 12px;
+    transition: box-shadow 0.5s, transform 0.5s ease-in-out;
+    position: relative;
+    .image {
+      max-height: 100%;
+      max-width: 100%;
+      object-fit: contain;
+    }
+    .text {
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-end;
+      width: calc(100% - 6% - 20px);
+      height: calc(100% - 9% - 20px);
+      position: absolute;
+      background: $blue-pale-transparent;
+      padding: 10px;
 
-    text-align: right;
-    font-size: medium;
-    color: white;
+      text-align: right;
+      font-size: medium;
+      color: white;
 
-    visibility: hidden;
-    opacity: 0;
-    overflow: hidden;
+      visibility: hidden;
+      opacity: 0;
+      overflow: hidden;
 
-    transition: opacity 0.5s, visibility 0.2s;
+      transition: opacity 0.5s, visibility 0.2s;
+    }
   }
 }
 
