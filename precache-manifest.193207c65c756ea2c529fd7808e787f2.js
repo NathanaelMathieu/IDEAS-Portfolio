@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97ce267f6fcdfbe5bbfaeb48f5ebd90a",
+    "revision": "74e27c018407f42fb6eee6f9b006a807",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/index.html"
   },
   {
-    "revision": "c03e00e88b34e1e2cdfc",
+    "revision": "bb9884bcaaa8819fb076",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/css/main.e18a3e2f.chunk.css"
   },
   {
-    "revision": "83f9aa88f81cd5683df2",
-    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/2.ff00e4bd.chunk.js"
+    "revision": "d68ed48058501e563198",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/2.b9f5431a.chunk.js"
   },
   {
     "revision": "0723d8a793525d9889d8e42ae1c6e4dd",
-    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/2.ff00e4bd.chunk.js.LICENSE"
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/2.b9f5431a.chunk.js.LICENSE"
   },
   {
-    "revision": "c03e00e88b34e1e2cdfc",
-    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/main.4a94d368.chunk.js"
+    "revision": "bb9884bcaaa8819fb076",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/main.3eb4d8c3.chunk.js"
   },
   {
     "revision": "06ba05c9034176bf915a",
@@ -40,8 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/aboutMockup.276a44e4.jpg"
   },
   {
+    "revision": "628f62eb951f992670fa52d1ea3a7114",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/b1.628f62eb.jpg"
+  },
+  {
+    "revision": "1a7341edd0a2ab47209d918e1bf3e06d",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/b2.1a7341ed.jpg"
+  },
+  {
     "revision": "eaf3c2022ac622c5abed13727861fd16",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/b3.eaf3c202.jpg"
+  },
+  {
+    "revision": "2bba17ea02e573f74ae6285e1f181ec8",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/b4.2bba17ea.png"
   },
   {
     "revision": "4d842d7f5d6f5ecc0ebec99c00af2406",
@@ -72,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/final.0785b7dd.jpg"
   },
   {
+    "revision": "ead2e95d8f254a17d5462c53749a3589",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/finalExt.ead2e95d.jpg"
+  },
+  {
     "revision": "6c373d34a5864bfea3f517672656ce3b",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/funnel.6c373d34.gif"
   },
@@ -90,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5529c19cd5d531dfe2f16a4ba4ac06c6",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/hall.5529c19c.jpg"
+  },
+  {
+    "revision": "0b1083f3f114572ee4dc3c24aabf41f6",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/holder.0b1083f3.jpg"
   },
   {
     "revision": "8096f5b6e115b13183c697a8cdf8ff74",
@@ -126,6 +146,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a7d32ed168154dfe8c2fdcb5c8b8a8d5",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/multi.a7d32ed1.gif"
+  },
+  {
+    "revision": "e029a9b2412e3921e80dbb6eb364508a",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/pendulums.e029a9b2.jpg"
   },
   {
     "revision": "8b75531142c60e51ce2ecb91fe9d7463",
