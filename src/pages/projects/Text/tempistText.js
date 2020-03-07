@@ -3,7 +3,7 @@ import { Text } from "../../../components";
 
 export const t1 = <Text text=
 {
-  `The unfortunately named Tempist project was a group project for COMP345 - Human Computer Interaction at the University of Auckland. A group of five including myself worked together to build and test a series of prototypes for a group work management software suite. Our design process followed industry standard procedures, starting with stakeholder mapping, developing personas, and considering the features that would be helpful to users.
+  `Tempist was a group project for COMP345 - Human Computer Interaction at the University of Auckland. A group of five including myself worked together to build and test a series of prototypes for a group work management software suite. Our design process followed industry standard procedures, starting with stakeholder mapping, developing personas, and considering the features that would be helpful to users.
 `
 }
 />;
