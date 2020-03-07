@@ -3,7 +3,7 @@ import { Text } from "../../../components";
 
 export const t1 = <Text text=
 {
-`The Cube was a combination of elements from a poster by Yusaka Kamekura for the Tokyo International Lighting Design Competition of 1979. Several steps were taken to transform the poster into a 3D object. The outside and inside feature the same grid that made up the foreground of the poster, and the hexagonal entrances, or portals, are a based off of the lighting fixtures installed in the poster's grid. After mapping the object into a third dimension, the portals allow the viewer to look into the interior space of the cube as well as out to the other side.
+`The Cube was a combination of elements from a poster by Yusaka Kamekura for the Tokyo International Lighting Design Competition of 1979. Several steps were taken to transform the poster into a 3D object. The outside and inside feature the same grid that made up the foreground of the poster, and the hexagonal entrances, or portals, are a based on the lighting fixtures installed in the poster's grid. After mapping the object into a third dimension, the portals allow the viewer to look into the interior space of the cube as well as out to the other side.
 `
 }
 />;

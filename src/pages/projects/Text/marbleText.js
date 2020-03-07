@@ -4,7 +4,7 @@ import { Text } from "../../../components";
 export const t1 = <Text text=
 {
 `In what amounted to my most challenging group project by far, my group of three set out to build a marble run. A kids toy, I thought, shouldn't be that hard to make. Prof. Voth initially suggested that it might be more challenging than we expected, and boy was he right.
-Problems abounded early on. We had plenty of trouble getting all of our team together for meetings, and contributions were hampered by concussion that lingered for several weeks, stymieing any chance at SolidWorks work. Beyond that, a series of prototyping failures and poor intra-group communication led to a much worse final product than hoped. These are reasons enough to leave this project off of the portfolio, but the skills I gained are too significant to pass over.
+Problems abounded early on. We had plenty of trouble getting all of our team together for meetings, and contributions were hampered by concussion that lingered for several weeks, stymieing any chance at SolidWorks work. Beyond that, a series of prototyping failures and poor intra-group communication led to a much worse final product than hoped. These are reasons enough to leave this project on the portfolio, but the skills I gained are too significant to pass over.
 `
 }
 />;

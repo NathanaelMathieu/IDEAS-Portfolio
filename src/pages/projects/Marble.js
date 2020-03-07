@@ -15,21 +15,21 @@ export default class Marble extends Component {
       <Layout>
         <div className="Marble">
           <div className="image_text">
-            <ImageCard alt="An isometric view of the Cube"
+            <ImageCard alt="Students from Renbrook Elementary School trying the marble run"
               size="4x6" image={kids}
-              textEnabled text="An isometric view of the Cube"/>
+              textEnabled text="Students from Renbrook Elementary School trying the marble run"/>
             {t1}
           </div>
           <div className="image_text">
-            <ImageCard alt="An isometric view of the Cube"
+            <ImageCard alt="A video of the funnel simulation, where a marble swings around before falling through the hole"
               size="4x6" image={funnelGif}
-              textEnabled text="An isometric view of the Cube"/>
+              textEnabled text="The Solidworks Motion study"/>
             {t2}
           </div>
           <div className="image_text">
-            <ImageCard alt="An isometric view of the Cube"
+            <ImageCard alt="Three prototype clips for the marble run track"
               size="4x6" image={clips}
-              textEnabled text="An isometric view of the Cube"/>
+              textEnabled text="Three prototype clips for the marble run track"/>
             {t3}
           </div>
         </div>
