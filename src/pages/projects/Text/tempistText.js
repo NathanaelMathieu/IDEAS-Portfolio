@@ -10,7 +10,7 @@ export const t1 = <Text text=
 
 export const t2 = <Text text=
 {
-  `The group functioned very well together; Potentially the best out of all the groups I have worked with in college. This was definitely due in part to the assignments themselves being fairly light for this number of people, but we all split into the roles that felt most comfortable and made our deadlines without much difficulty. Since getting 5 people together in the same room can be quite difficult, we made sure to cover everything that needed to be done in person whenever we got together. The impressive cohesion of the group made the project, building tools to help manage group work, quite ironic.
+  `The group functioned very well together; potentially the best out of all the groups I have worked with in college. This was definitely due in part to the assignments themselves being fairly light for this number of people, but we all split into the roles that felt most comfortable and made our deadlines without much difficulty. Since getting five people together in the same room can be quite difficult, we made sure to cover everything that needed to be done in person whenever we got together. The impressive cohesion of the group made the project, building tools to help manage group work, quite ironic.
   `
 }
 />;
