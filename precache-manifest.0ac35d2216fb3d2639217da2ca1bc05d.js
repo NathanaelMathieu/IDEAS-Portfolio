@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f1a110e281aeb6e31b5ed4bbda4d541",
+    "revision": "97ce267f6fcdfbe5bbfaeb48f5ebd90a",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/index.html"
   },
   {
-    "revision": "8648119106fb86430320",
+    "revision": "c03e00e88b34e1e2cdfc",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/css/main.e18a3e2f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/2.ff00e4bd.chunk.js.LICENSE"
   },
   {
-    "revision": "8648119106fb86430320",
-    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/main.84505212.chunk.js"
+    "revision": "c03e00e88b34e1e2cdfc",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/js/main.4a94d368.chunk.js"
   },
   {
     "revision": "06ba05c9034176bf915a",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0785b7dd118f393bdfa40c49c45ab9f7",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/final.0785b7dd.jpg"
+  },
+  {
+    "revision": "6c373d34a5864bfea3f517672656ce3b",
+    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/funnel.6c373d34.gif"
   },
   {
     "revision": "a031aba2d0f79364fc7d2b7d43694d45",
@@ -146,10 +150,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "91a885b64485d2b169b6d57522bd0310",
     "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/task.91a885b6.png"
-  },
-  {
-    "revision": "9e8b6510769777c6ad1b94b9c8232d56",
-    "url": "https://nathanaelmathieu.github.io/IDEAS-Portfolio/static/media/track.9e8b6510.jpg"
   },
   {
     "revision": "007f3e5d0edb3968efd8435a180584fb",
