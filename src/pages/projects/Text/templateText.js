@@ -3,7 +3,7 @@ import { Text } from "../../../components";
 
 export const t1 = <Text text=
 {
-  `When I approached Prof. Moller about making my portfolio for the upcoming spring deadlines I had mixed feelings about his suggestion that I make website to demonstrate my projects. I knew that it was going to be a lot of work, but that wasn't the issue. My biggest hesitation was with the what work would actually be. I had been working on Front End theory and then design for much of 2019, and came out of the theory portion excited and considering a career as a Front End developer. Then I started to work at a company doing, mostly, front end. It was not very enjoyable. I found myself far less excited about it than any other coding project I had done before. 
+  `When I approached Prof. Moller about making my portfolio for the upcoming spring deadlines I had mixed feelings about his suggestion that I make a web-based portfolio. I knew that it was going to be a lot of work, but that wasn't the issue. My biggest hesitation was with the what work would actually be. I had been working on Front End theory and then design for much of 2019, and came out of the theory portion excited and considering a career as a Front End developer. Then I started to work at a company doing, mostly, front end. It was not very enjoyable. I found myself far less excited about it than any other coding project I had done before.
 `
 }
 />;
@@ -22,8 +22,10 @@ export const t3 = <Text text=
 `}
 />;
 
-export const t4 = <Text text=
+export const t4 = <Text preformatted=
 {
-`I did plenty of layout wireframes, eventually making a bunch of moveable pieces of paper that I could rearrange freely. This was a great tool, and led to much faster prototyping of designs. The Contact page was initially designed as a minimalist About Me page, but I realized it worked excellently in that context and built it for that. My hope is that future IDEAS students will consider using this. I've put a lot of time into it, and it won't be the resume-building project I once hoped it would be. Hopefully future minor applicants will appreciate it and build on it.
-`}
+<p>
+  I did plenty of layout wireframes, eventually making a bunch of moveable pieces of paper that I could rearrange freely. This was a great tool, and led to much faster prototyping of designs. The Contact page was initially designed as a minimalist About Me page, but I realized it worked excellently in that context and built it for that. My hope is that future IDEAS students will consider using {<a href="https://github.com/NathanaelMathieu/IDEAS-Portfolio-Template" target="_blank" rel="noopener noreferrer">this</a>}. I&apos;ve put a lot of time into it, and it won&apos;t be the resume-building project I once hoped it would be. Hopefully future minor applicants will appreciate it and build on it.
+</p>
+}
 />;
